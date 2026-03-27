@@ -8,4 +8,4 @@ It means that following the rules, with some but not unlimited creative freedom,
 
 # How do I help?
 
-Read [contributing.md](./contributing.md)
+Read [contributing.md](./CONTRIBUTING.md)
